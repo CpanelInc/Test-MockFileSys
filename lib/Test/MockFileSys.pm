@@ -37,11 +37,11 @@ Test::MockFile - Lets tests validate code that interacts with files without the 
 
 =head1 VERSION
 
-Version 0.011
+Version 0.001
 
 =cut
 
-our $VERSION = '0.011';
+our $VERSION = '0.001';
 
 our %files_being_mocked;
 
